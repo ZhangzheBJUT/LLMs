@@ -1,0 +1,8 @@
+DingtalkChatbot
+python-dotenv
+uvicorn
+fastapi
+cryptography
+langchain
+chromadb
+sentence_transformers
